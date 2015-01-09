@@ -1,6 +1,6 @@
-update=tis  2 sep 2014 11:35:26
+update=Fri Jan  9 18:32:00 2015
 version=1
-last_client=kicad
+last_client=eeschema
 [general]
 version=1
 [cvpcb]
@@ -31,6 +31,11 @@ ModuleOutlineThickness=0.15
 [eeschema]
 version=1
 LibDir=Libraries
+NetFmtName=
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
