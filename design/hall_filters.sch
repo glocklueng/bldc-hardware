@@ -31,13 +31,13 @@ LIBS:contrib
 LIBS:valves
 LIBS:crf_1
 LIBS:BLDC_4-cache
-EELAYER 25 0
+EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 7
+Sheet 5 8
 Title ""
-Date "25 Aug 2014"
+Date "10 jan 2015"
 Rev ""
 Comp ""
 Comment1 ""
