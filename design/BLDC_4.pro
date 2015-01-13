@@ -1,8 +1,6 @@
-update=Fri Jan  9 18:32:00 2015
+update=Wed Jan 14 00:55:08 2015
 version=1
-last_client=eeschema
-[general]
-version=1
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -68,3 +66,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=crf_1
+[general]
+version=1
