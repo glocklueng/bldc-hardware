@@ -1,11 +1,6 @@
-update=Wed Jan 14 00:55:08 2015
+update=Fri Jan 16 12:16:16 2015
 version=1
-last_client=kicad
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=eeschema
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -26,6 +21,25 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[pcbnew/libraries]
+LibName1=Libraries/crf_1
+LibName2=Libraries/w_conn_jst-ph
+LibName3=Libraries/w_smd_cap
+LibName4=Libraries/w_smd_diode
+LibName5=Libraries/w_smd_inductors
+LibName6=capacitors
+LibName7=inductors
+LibName8=smd_capacitors
+LibName9=smd_crystal&oscillator
+LibName10=smd_resistors
+LibDir=
+[general]
+version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
 LibDir=Libraries
@@ -66,5 +80,3 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=crf_1
-[general]
-version=1
