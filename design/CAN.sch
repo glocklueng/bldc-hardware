@@ -38,8 +38,8 @@ encoding utf-8
 Sheet 4 10
 Title "CAN BUS transceiver"
 Date "16 jan 2015"
-Rev ""
-Comp "Mrk Industries"
+Rev "1.0"
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""

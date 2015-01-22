@@ -38,8 +38,8 @@ encoding utf-8
 Sheet 9 10
 Title "BLDC Driver 4.6"
 Date "16 jan 2015"
-Rev "4.6"
-Comp "Benjamin Vedder"
+Rev "1.0"
+Comp ""
 Comment1 ""
 Comment2 ""
 Comment3 ""
