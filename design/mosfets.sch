@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 10
 Title "BLDC Driver 4.6"
-Date "16 jan 2015"
+Date "6 feb 2015"
 Rev "1.0"
 Comp ""
 Comment1 ""
@@ -240,79 +240,8 @@ F 3 "" H 6200 4050 60  0001 C CNN
 	1    6200 4050
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	8100 4050 8200 4050
-Wire Wire Line
-	4950 4050 5050 4050
-Wire Wire Line
-	7250 3750 7300 3750
-Wire Wire Line
-	4050 3750 4150 3750
-Wire Wire Line
-	5650 3750 5700 3750
-Wire Wire Line
-	5600 2800 5700 2800
-Wire Wire Line
-	7200 2800 7300 2800
-Wire Wire Line
-	5050 3950 5050 4500
-Connection ~ 6600 2450
-Wire Wire Line
-	8200 2450 8200 2600
-Wire Wire Line
-	8200 3950 8200 4500
-Wire Wire Line
-	8200 3000 8200 3550
-Wire Wire Line
-	7800 2800 7900 2800
-Wire Wire Line
-	7800 3750 7900 3750
-Wire Wire Line
-	8100 3300 8350 3300
-Connection ~ 8200 3300
-Connection ~ 6600 3300
-Wire Wire Line
-	6500 3300 6750 3300
-Wire Wire Line
-	6200 3750 6300 3750
-Wire Wire Line
-	6200 2800 6300 2800
-Wire Wire Line
-	6600 3000 6600 3550
-Wire Wire Line
-	6600 2450 6600 2600
-Wire Wire Line
-	5050 3000 5050 3550
-Wire Wire Line
-	4650 2800 4750 2800
-Wire Wire Line
-	4650 3750 4750 3750
-Wire Wire Line
-	4950 3300 5200 3300
-Connection ~ 5050 3300
-Wire Wire Line
-	5050 2300 5050 2600
-Connection ~ 5050 2450
-Wire Wire Line
-	4050 2800 4150 2800
-Wire Wire Line
-	5050 2450 8200 2450
-Wire Wire Line
-	7850 3750 7850 3900
-Wire Wire Line
-	7850 3900 7450 3900
-Wire Wire Line
-	7450 3900 7450 4050
-Wire Wire Line
-	7450 4050 7600 4050
-Connection ~ 7850 3750
-Connection ~ 8200 4050
-Connection ~ 5050 4050
-Connection ~ 6250 3750
 Text GLabel 5050 2300 2    60   Input ~ 0
 V_SUPPLY_MOSFET
-Wire Wire Line
-	6600 3950 6600 4500
 Text HLabel 4050 2800 0    60   Input ~ 0
 M_H1
 Text HLabel 4050 3750 0    60   Input ~ 0
@@ -3633,7 +3562,7 @@ D1 68 34 2C CB CE CF CF 8B 33 95 10 D2 DC DC DC DE DE 5E 53 53 23 BE D4 E2 E2 E2
 A2 DB A5 0E 1C 38 E0 16 C0 12 58 96 15 77 F6 0A 4F DD 5E 07 00 58 7B 10 AB 00 00 00 41 83 79 AB 
 00 00 00 41 83 58 05 00 00 08 1A C4 2A 00 00 40 D0 20 56 01 00 00 82 06 B1 0A 00 00 10 34 88 55 
 00 00 80 A0 41 AC 02 00 00 04 CD FF 03 15 B2 0E 9E 1D 9F E2 F2 00 00 00 00 49 45 4E 44 AE 42 60 
-82 40 $EndBitmap
+82 00 $EndBitmap
 EndData
 $EndBitmap
 $Bitmap
@@ -8333,6 +8262,77 @@ A4 94 8C 48 11 4E 06 E2 F0 74 7A 21 4E 39 84 A1 08 F9 DC 9E 14 E4 50 4F 20 10 08
 01 30 64 8D 18 65 07 00 00 00 00 49 45 4E 44 AE 42 60 82 FD $EndBitmap
 EndData
 $EndBitmap
+Wire Wire Line
+	8100 4050 8200 4050
+Wire Wire Line
+	4950 4050 5050 4050
+Wire Wire Line
+	7250 3750 7300 3750
+Wire Wire Line
+	4050 3750 4150 3750
+Wire Wire Line
+	5650 3750 5700 3750
+Wire Wire Line
+	5600 2800 5700 2800
+Wire Wire Line
+	7200 2800 7300 2800
+Wire Wire Line
+	5050 3950 5050 4500
+Connection ~ 6600 2450
+Wire Wire Line
+	8200 2450 8200 2600
+Wire Wire Line
+	8200 3950 8200 4500
+Wire Wire Line
+	8200 3000 8200 3550
+Wire Wire Line
+	7800 2800 7900 2800
+Wire Wire Line
+	7800 3750 7900 3750
+Wire Wire Line
+	8100 3300 8350 3300
+Connection ~ 8200 3300
+Connection ~ 6600 3300
+Wire Wire Line
+	6500 3300 6750 3300
+Wire Wire Line
+	6200 3750 6300 3750
+Wire Wire Line
+	6200 2800 6300 2800
+Wire Wire Line
+	6600 3000 6600 3550
+Wire Wire Line
+	6600 2450 6600 2600
+Wire Wire Line
+	5050 3000 5050 3550
+Wire Wire Line
+	4650 2800 4750 2800
+Wire Wire Line
+	4650 3750 4750 3750
+Wire Wire Line
+	4950 3300 5200 3300
+Connection ~ 5050 3300
+Wire Wire Line
+	5050 2300 5050 2600
+Connection ~ 5050 2450
+Wire Wire Line
+	4050 2800 4150 2800
+Wire Wire Line
+	5050 2450 8200 2450
+Wire Wire Line
+	7850 3750 7850 3900
+Wire Wire Line
+	7850 3900 7450 3900
+Wire Wire Line
+	7450 3900 7450 4050
+Wire Wire Line
+	7450 4050 7600 4050
+Connection ~ 7850 3750
+Connection ~ 8200 4050
+Connection ~ 5050 4050
+Connection ~ 6250 3750
+Wire Wire Line
+	6600 3950 6600 4500
 Connection ~ 4700 3750
 Wire Wire Line
 	4700 3750 4700 3900
