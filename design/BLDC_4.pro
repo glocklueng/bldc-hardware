@@ -1,26 +1,27 @@
-update=Thu Jan 22 08:26:45 2015
+update=Sat Feb  7 13:40:50 2015
 version=1
-last_client=eeschema
+last_client=kicad
+[general]
+version=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0
-PadDrillOvalY=0
-PadSizeH=3.6576
-PadSizeV=2.032
-PcbTextSizeV=1
-PcbTextSizeH=1
-PcbTextThickness=0.3
-ModuleTextSizeV=1
-ModuleTextSizeH=1
-ModuleTextSizeThickness=0.15
-SolderMaskClearance=0
-SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
-BoardOutlineThickness=0.15
-ModuleOutlineThickness=0.15
+PadDrill="    0.000000"
+PadDrillOvalY="    0.000000"
+PadSizeH="    0.350000"
+PadSizeV="    1.350000"
+PcbTextSizeV="    1.000000"
+PcbTextSizeH="    1.000000"
+PcbTextThickness="    0.300000"
+ModuleTextSizeV="    1.000000"
+ModuleTextSizeH="    1.000000"
+ModuleTextSizeThickness="    0.150000"
+SolderMaskClearance="    0.000000"
+SolderMaskMinWidth="    0.000000"
+DrawSegmentWidth="    0.200000"
+BoardOutlineThickness="    0.150000"
+ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
 LibName1=Libraries/crf_1
 LibName2=Libraries/w_conn_jst-ph
@@ -32,9 +33,8 @@ LibName7=inductors
 LibName8=smd_capacitors
 LibName9=smd_crystal&oscillator
 LibName10=smd_resistors
+LibName11=/home/mirko/kicadlibrary/open-project
 LibDir=
-[general]
-version=1
 [cvpcb]
 version=1
 NetIExt=net
@@ -43,11 +43,6 @@ EquName1=devcms
 [eeschema]
 version=1
 LibDir=Libraries
-NetFmtName=
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=power
 LibName2=device
