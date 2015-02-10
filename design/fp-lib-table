@@ -1,9 +1,10 @@
 (fp_lib_table
-  (lib (name cfr1)(type KiCad)(uri ${KIPRJMOD}/Libraries/cfr1.pretty)(options "")(descr ""))
+  (lib (name CRF_1)(type KiCad)(uri ${KIPRJMOD}/Libraries/CRF_1.pretty)(options "")(descr ""))
+  (lib (name Diodes_SMD)(type KiCad)(uri ${KIPRJMOD}/Libraries/Diodes_SMD.pretty)(options "")(descr ""))
+  (lib (name Housings_QFP)(type KiCad)(uri ${KIPRJMOD}/Libraries/Housings_QFP.pretty)(options "")(descr ""))
   (lib (name JSTcon)(type KiCad)(uri ${KIPRJMOD}/Libraries/JSTcon.pretty)(options "")(descr ""))
+  (lib (name SMD_Packages)(type KiCad)(uri ${KIPRJMOD}/Libraries/SMD_Packages.pretty)(options "")(descr ""))
   (lib (name w_smd_cap)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_cap.pretty)(options "")(descr ""))
   (lib (name w_smd_diode)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_diode.pretty)(options "")(descr ""))
   (lib (name w_smd_inductors)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_inductors.pretty)(options "")(descr ""))
-  (lib (name Housings_QFP)(type KiCad)(uri /usr/share/kicad/footprints/Housings_QFP.pretty)(options "")(descr ""))
-  (lib (name SMD_Packages)(type KiCad)(uri /usr/share/kicad/footprints/SMD_Packages.pretty)(options "")(descr ""))
 )
