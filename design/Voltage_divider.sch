@@ -1,0 +1,162 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:crf_1
+LIBS:BLDC_4-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 12 28
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L R R?
+U 1 1 54DFDF39
+P 5050 2950
+AR Path="/504F83BE/54DFBF3B/54DFDF39" Ref="R?"  Part="1" 
+AR Path="/504F83BE/54E004A7/54DFDF39" Ref="R92"  Part="1" 
+AR Path="/504F83BE/54DFE437/54DFDF39" Ref="R86"  Part="1" 
+AR Path="/504F83BE/54DFFA62/54DFDF39" Ref="R88"  Part="1" 
+AR Path="/504F83BE/54DFFB5D/54DFDF39" Ref="R90"  Part="1" 
+AR Path="/504F83BE/54E01811/54DFDF39" Ref="R94"  Part="1" 
+AR Path="/504F83BE/54E0198F/54DFDF39" Ref="R96"  Part="1" 
+AR Path="/54B735D5/54DFE437/54DFDF39" Ref="R98"  Part="1" 
+AR Path="/54B735D5/54DFFA62/54DFDF39" Ref="R100"  Part="1" 
+AR Path="/54B735D5/54DFFB5D/54DFDF39" Ref="R102"  Part="1" 
+AR Path="/54B735D5/54E004A7/54DFDF39" Ref="R104"  Part="1" 
+AR Path="/54B735D5/54E01811/54DFDF39" Ref="R106"  Part="1" 
+AR Path="/54B735D5/54E0198F/54DFDF39" Ref="R108"  Part="1" 
+F 0 "R108" V 5130 2950 40  0000 C CNN
+F 1 "R" V 5057 2951 40  0000 C CNN
+F 2 "" V 4980 2950 30  0000 C CNN
+F 3 "" H 5050 2950 30  0000 C CNN
+	1    5050 2950
+	0    1    1    0   
+$EndComp
+$Comp
+L R R93
+U 1 1 54DFDFD5
+P 5050 3200
+AR Path="/504F83BE/54E004A7/54DFDFD5" Ref="R93"  Part="1" 
+AR Path="/504F83BE/54DFE437/54DFDFD5" Ref="R87"  Part="1" 
+AR Path="/504F83BE/54DFFA62/54DFDFD5" Ref="R89"  Part="1" 
+AR Path="/504F83BE/54DFFB5D/54DFDFD5" Ref="R91"  Part="1" 
+AR Path="/504F83BE/54E01811/54DFDFD5" Ref="R95"  Part="1" 
+AR Path="/504F83BE/54E0198F/54DFDFD5" Ref="R97"  Part="1" 
+AR Path="/54B735D5/54DFE437/54DFDFD5" Ref="R99"  Part="1" 
+AR Path="/54B735D5/54DFFA62/54DFDFD5" Ref="R101"  Part="1" 
+AR Path="/54B735D5/54DFFB5D/54DFDFD5" Ref="R103"  Part="1" 
+AR Path="/54B735D5/54E004A7/54DFDFD5" Ref="R105"  Part="1" 
+AR Path="/54B735D5/54E01811/54DFDFD5" Ref="R107"  Part="1" 
+AR Path="/54B735D5/54E0198F/54DFDFD5" Ref="R109"  Part="1" 
+F 0 "R109" V 5130 3200 40  0000 C CNN
+F 1 "R" V 5057 3201 40  0000 C CNN
+F 2 "" V 4980 3200 30  0000 C CNN
+F 3 "" H 5050 3200 30  0000 C CNN
+	1    5050 3200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4800 3200 4600 3200
+Wire Wire Line
+	4600 3200 4600 2950
+Wire Wire Line
+	4350 2950 4800 2950
+Connection ~ 4600 2950
+Wire Wire Line
+	5300 3200 5500 3200
+Wire Wire Line
+	5500 3200 5500 3250
+$Comp
+L GND #PWR?
+U 1 1 54DFE01E
+P 5500 3250
+AR Path="/504F83BE/54DFBF3B/54DFE01E" Ref="#PWR?"  Part="1" 
+AR Path="/504F83BE/54E004A7/54DFE01E" Ref="#PWR65"  Part="1" 
+AR Path="/504F83BE/54DFE437/54DFE01E" Ref="#PWR62"  Part="1" 
+AR Path="/504F83BE/54DFFA62/54DFE01E" Ref="#PWR63"  Part="1" 
+AR Path="/504F83BE/54DFFB5D/54DFE01E" Ref="#PWR64"  Part="1" 
+AR Path="/504F83BE/54E01811/54DFE01E" Ref="#PWR66"  Part="1" 
+AR Path="/504F83BE/54E0198F/54DFE01E" Ref="#PWR67"  Part="1" 
+AR Path="/54B735D5/54DFE437/54DFE01E" Ref="#PWR95"  Part="1" 
+AR Path="/54B735D5/54DFFA62/54DFE01E" Ref="#PWR96"  Part="1" 
+AR Path="/54B735D5/54DFFB5D/54DFE01E" Ref="#PWR97"  Part="1" 
+AR Path="/54B735D5/54E004A7/54DFE01E" Ref="#PWR98"  Part="1" 
+AR Path="/54B735D5/54E01811/54DFE01E" Ref="#PWR99"  Part="1" 
+AR Path="/54B735D5/54E0198F/54DFE01E" Ref="#PWR100"  Part="1" 
+F 0 "#PWR100" H 5500 3250 30  0001 C CNN
+F 1 "GND" H 5500 3180 30  0001 C CNN
+F 2 "" H 5500 3250 60  0000 C CNN
+F 3 "" H 5500 3250 60  0000 C CNN
+	1    5500 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 2950 5500 2950
+Text HLabel 5500 2950 2    60   Input ~ 0
+IN
+Text HLabel 4350 2950 0    60   Input ~ 0
+OUT
+Text Notes 4450 2500 0    60   ~ 0
+R1=(Uul-Uiz)R2/Uiz
+Text Notes 3850 3800 0    60   ~ 0
+Calculate R2 from a Imax and Umax or if you know Imin for chip that is\n sensing this voltage calculate by that path.
+Text Notes 7000 1050 0    60   ~ 0
+CALCULATION
+Text Notes 7050 1200 0    60   ~ 0
+R2=22k
+Text Notes 7050 1300 0    60   ~ 0
+Uiz=50V
+Text Notes 7050 1400 0    60   ~ 0
+Uul=100V
+Wire Notes Line
+	7000 1450 7550 1450
+Wire Notes Line
+	6800 850  10100 850 
+Wire Notes Line
+	10100 850  10100 2600
+Wire Notes Line
+	10100 2600 6800 2600
+Wire Notes Line
+	6800 2600 6800 850 
+Text Notes 7050 1750 0    60   ~ 0
+R1=(100V-50V)*22k/50V
+Text Notes 7050 1850 0    60   ~ 0
+R1=R2=22k
+$EndSCHEMATC
