@@ -7,4 +7,5 @@
   (lib (name w_smd_cap)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_cap.pretty)(options "")(descr ""))
   (lib (name w_smd_diode)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_diode.pretty)(options "")(descr ""))
   (lib (name w_smd_inductors)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_inductors.pretty)(options "")(descr ""))
+  (lib (name LEDs)(type KiCad)(uri ${KIPRJMOD}/Libraries/LEDs.pretty)(options "")(descr ""))
 )
