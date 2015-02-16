@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Sun Feb 15 00:03:45 2015
+Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Sun Feb 15 00:14:33 2015
 
 BeginCmp
 TimeStamp = /522DA0B3;
@@ -627,7 +627,7 @@ BeginCmp
 TimeStamp = /540360D1;
 Reference = P1;
 ValeurCmp = CANBUS;
-IdModule  = CRF1:pinhead-1X03;
+IdModule  = CRF1:pinhead-1X04;
 EndCmp
 
 BeginCmp

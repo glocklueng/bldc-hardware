@@ -1,5 +1,5 @@
 (fp_lib_table
-  (lib (name CRF_1)(type KiCad)(uri ${KIPRJMOD}/Libraries/CRF_1.pretty)(options "")(descr ""))
+  (lib (name CRF1)(type KiCad)(uri ${KIPRJMOD}/Libraries/CRF1.pretty)(options "")(descr ""))
   (lib (name Diodes_SMD)(type KiCad)(uri ${KIPRJMOD}/Libraries/Diodes_SMD.pretty)(options "")(descr ""))
   (lib (name Housings_QFP)(type KiCad)(uri ${KIPRJMOD}/Libraries/Housings_QFP.pretty)(options "")(descr ""))
   (lib (name JSTcon)(type KiCad)(uri ${KIPRJMOD}/Libraries/JSTcon.pretty)(options "")(descr ""))

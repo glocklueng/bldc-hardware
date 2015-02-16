@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /media/DATA/EL-karting/BLDC/bldc-hardware/design/BLDC_4.sch)
-    (date "Sun Feb 15 00:03:55 2015")
+    (date "Sun Feb 15 00:13:49 2015")
     (tool "Eeschema (2015-02-11 BZR 5414)-product"))
   (components
     (comp (ref P2)
@@ -150,7 +150,7 @@
       (tstamp 53FC6A67))
     (comp (ref P1)
       (value CANBUS)
-      (footprint CRF1:pinhead-1X03)
+      (footprint CRF1:pinhead-1X04)
       (libsource (lib conn) (part CONN_4))
       (sheetpath (names /) (tstamps /))
       (tstamp 540360D1))
