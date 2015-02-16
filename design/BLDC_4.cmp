@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Mon Feb 16 13:00:18 2015
+Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Mon Feb 16 20:32:53 2015
 
 BeginCmp
 TimeStamp = /522DA0B3;
@@ -647,7 +647,7 @@ EndCmp
 BeginCmp
 TimeStamp = /522DA112;
 Reference = P4;
-ValeurCmp = PWR_COMM;
+ValeurCmp = PWR_COMM_1;
 IdModule  = CRF1:MICRO_JST_6;
 EndCmp
 
@@ -724,7 +724,7 @@ EndCmp
 BeginCmp
 TimeStamp = /54DE4959;
 Reference = P15;
-ValeurCmp = PWR_COMM;
+ValeurCmp = PWR_COMM_2;
 IdModule  = CRF1:MICRO_JST_6;
 EndCmp
 
@@ -1600,7 +1600,7 @@ BeginCmp
 TimeStamp = /53F7501A/54B0C7C0;
 Reference = U4;
 ValeurCmp = STM32F40X_LQFP144;
-IdModule  = Housings_QFP:TQFP-144_20x20mm_Pitch0.5mm;
+IdModule  = Housings_QFP:LQFP-144_20x20mm_Pitch0.5mm;
 EndCmp
 
 BeginCmp
