@@ -8,4 +8,5 @@
   (lib (name w_smd_diode)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_diode.pretty)(options "")(descr ""))
   (lib (name w_smd_inductors)(type KiCad)(uri ${KIPRJMOD}/Libraries/w_smd_inductors.pretty)(options "")(descr ""))
   (lib (name LEDs)(type KiCad)(uri ${KIPRJMOD}/Libraries/LEDs.pretty)(options "")(descr ""))
+  (lib (name H-PSOF)(type KiCad)(uri ${KIPRJMOD}/Libraries/H-PSOF.pretty)(options "")(descr ""))
 )

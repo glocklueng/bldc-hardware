@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Sun Feb 15 00:14:33 2015
+Cmp-Mod V01 Created by Cvpcb (2015-02-11 BZR 5414)-product   date = Mon Feb 16 13:00:18 2015
 
 BeginCmp
 TimeStamp = /522DA0B3;
@@ -731,85 +731,85 @@ EndCmp
 BeginCmp
 TimeStamp = /53F826DC/53F8E63D;
 Reference = Q1;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /53F826DC/53F8E644;
+TimeStamp = /53F826DC/54E2030B;
 Reference = Q2;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /53F826DC/53F8E673;
+TimeStamp = /53F826DC/54E2035A;
 Reference = Q3;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /53F826DC/53F8E66C;
+TimeStamp = /53F826DC/54E20407;
 Reference = Q4;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /53F826DC/53F8E67A;
+TimeStamp = /53F826DC/54E20388;
 Reference = Q5;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /53F826DC/53F8E681;
+TimeStamp = /53F826DC/54E203B7;
 Reference = Q6;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
 TimeStamp = /54B73596/53F8E63D;
 Reference = Q7;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /54B73596/53F8E644;
+TimeStamp = /54B73596/54E2030B;
 Reference = Q8;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /54B73596/53F8E673;
+TimeStamp = /54B73596/54E2035A;
 Reference = Q9;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /54B73596/53F8E66C;
+TimeStamp = /54B73596/54E20407;
 Reference = Q10;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /54B73596/53F8E67A;
+TimeStamp = /54B73596/54E20388;
 Reference = Q11;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
-TimeStamp = /54B73596/53F8E681;
+TimeStamp = /54B73596/54E203B7;
 Reference = Q12;
-ValeurCmp = IRFS3006;
-IdModule  = CRF1:D2PAK-7-GDS;
+ValeurCmp = FDBL0630N150;
+IdModule  = H-PSOF:H-PSOF-8L;
 EndCmp
 
 BeginCmp
